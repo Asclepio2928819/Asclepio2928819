@@ -6,7 +6,8 @@ pkg install python
 
 pkg install python2
 
-git clone https://github.com/Nero_on_x/Nero_onxSh9
+git clone https://github.com/Asclepio2928819/
+Nero_onxSh9
 
 cd Nero 
 
